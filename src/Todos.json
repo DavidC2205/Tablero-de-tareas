@@ -1,0 +1,33 @@
+{
+"todos":[
+{
+    "titulo":"Tarea 1",
+    "responsable":"marcos",
+    "descripcion":"lorem ipsum",
+    "prioridad": "baja"
+},
+{
+    "titulo":"Tarea 2",
+    "responsable":"Hernan",
+    "descripcion":"lorem ipsum",
+    "prioridad": "media"
+},{
+    "titulo":"Tarea 3",
+    "responsable":"Javier",
+    "descripcion":"lorem ipsum",
+    "prioridad": "alta"
+},{
+    "titulo":"Tarea 4",
+    "responsable":"Jesus",
+    "descripcion":"lorem ipsum",
+    "prioridad": "baja"
+},{
+    "titulo":"Tarea 5",
+    "responsable":"Carlos",
+    "descripcion":"lorem ipsum",
+    "prioridad": "baja"
+}
+]
+
+
+}
